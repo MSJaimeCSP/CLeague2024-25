@@ -1,88 +1,136 @@
-⚽ Champions League 2024-25 Analytics
+# ⚽ UEFA Champions League 2024-25 Analytics Dashboard
 
-Proyecto de análisis de datos desarrollado con Power BI sobre estadísticas de jugadores de la UEFA Champions League 2024-25.
+Proyecto de análisis de datos y visualización desarrollado con **Python** y **Power BI** utilizando estadísticas de jugadores y equipos de la UEFA Champions League 2024-25.
 
-📋 Descripción
+El proyecto incluye un proceso ETL para limpiar y transformar los datos, un modelo relacional y un dashboard interactivo en Power BI.
 
-Este proyecto tiene como objetivo analizar el rendimiento de los jugadores de la Champions League mediante técnicas de Business Intelligence utilizando Power BI.
+---
 
-A través de diferentes dashboards interactivos se estudian métricas ofensivas, defensivas y de creación de juego para identificar patrones de rendimiento y comparar jugadores.
 
-🎯 Objetivos
-Analizar el rendimiento individual de los jugadores.
-Identificar a los máximos goleadores y asistentes.
-Comparar estadísticas avanzadas (xG, xAG, pases progresivos, etc.).
-Explorar la distribución de jugadores por país y posición.
-Crear visualizaciones interactivas para facilitar la toma de decisiones.
-🛠️ Tecnologías utilizadas
-Power BI Desktop
-Power Query
-DAX
-Microsoft Excel
-Git y GitHub
-📂 Estructura del proyecto
+# Dashboard
+
+![Dashboard](images/dashboard_general.png)
+
+# 📊 Tecnologías utilizadas
+
+- Python
+- Pandas
+- Jupyter Notebook
+- Power BI
+- Git & GitHub
+
+---
+
+# 📁 Estructura del proyecto
+
+```
 CLeague2024_25/
 │
 ├── data/
 │   ├── raw/
+│   ├── interim/
 │   └── processed/
 │
-├── dax/
-│
-├── docs/
-│   ├── screenshots/
-│   ├── diccionario_datos.md
-│   ├── memoria_proyecto.md
-│   └── conclusiones.md
-│
-├── images/
+├── notebooks/
+│   ├── limpiar_datos.ipynb
+│   ├── jugadores.ipynb
+│   └── ajustar_Player.ipynb
 │
 ├── powerbi/
 │   └── CLeague2024_25.pbix
 │
-├── presentation/
+├── images/
+│   └── modelo_relacional.png
 │
-├── README.md
-└── .gitignore
-📊 Indicadores principales (KPIs)
-Total de jugadores
-Total de goles
-Total de asistencias
-Total de minutos jugados
-Promedio de edad
-Goles por 90 minutos
-Asistencias por 90 minutos
-xG (Expected Goals)
-xAG (Expected Assists)
-📈 Dashboards
-Dashboard 1 – Resumen Ejecutivo
-KPIs principales
-Distribución por posición
-Distribución por país
-Dashboard 2 – Rendimiento Ofensivo
-Top goleadores
-Top asistentes
-Comparación entre goles y xG
-Dashboard 3 – Creación de Juego
-Pases completados
-Precisión de pase
-Pases progresivos
-xAG
-Dashboard 4 – Comparador de Jugadores
-Comparación directa entre dos jugadores
-Métricas ofensivas y de creación
-📷 Capturas
+├── docs/
+├── dax/
+└── README.md
+```
 
-Las capturas del dashboard se almacenan en:
+---
 
-docs/screenshots/
-🚀 Futuras mejoras
-Incorporar estadísticas por equipo.
-Añadir análisis temporal por jornadas.
-Crear versión publicada en Power BI Service.
-Incorporar métricas avanzadas de rendimiento.
-👨‍💻 Autor
+# 🔄 Flujo ETL
 
-Jaime Martínez
+Los datos siguen un proceso de transformación dividido en tres etapas:
 
-Proyecto desarrollado como práctica de análisis de datos y visualización con Power BI.
+```
+Raw
+    │
+    ▼
+Interim
+    │
+    ▼
+Processed
+    │
+    ▼
+Power BI
+```
+
+## Raw
+
+Contiene los datos originales descargados.
+
+- CLeague2024_25.csv
+- jugadores_equipo.csv
+
+## Interim
+
+Archivos auxiliares utilizados durante la limpieza.
+
+- jugadores_unicos.csv
+- nombres_raros.csv
+- nombres_raros_corregidos.csv
+
+## Processed
+
+Datasets finales utilizados por Power BI.
+
+- CLeague.csv
+- jugadores.csv
+- equipos.csv
+- PlayerTeam.csv
+
+---
+
+# 🗂 Modelo de datos
+
+El proyecto utiliza un modelo relacional compuesto por:
+
+- Equipos
+- Jugadores
+- PlayerTeam
+- CLeague
+
+![Modelo relacional](images/modelo_relacional.png)
+
+---
+
+# 📈 Dashboard Power BI
+
+El dashboard incluye:
+
+- 📍 Ubicación de los clubes participantes
+- 🏆 Equipos participantes
+- 🌍 Países participantes
+- 📊 Top 20 nacionalidades
+- 🍩 Distribución por posición
+- 🌳 Distribución de nacionalidades
+
+---
+
+# 📌 Objetivos
+
+- Limpieza y normalización de datos.
+- Creación de un proceso ETL reproducible.
+- Diseño de un modelo relacional.
+- Desarrollo de dashboards interactivos.
+- Aplicación de buenas prácticas en organización de proyectos de datos.
+
+---
+
+# 🚀 Autor
+
+**Jaime Martínez**
+
+GitHub:
+https://github.com/MSJaimeCSP
