@@ -1,0 +1,1320 @@
+﻿Player;Pos;Age;Team
+Mohamed Salah;MF;32;Liverpool
+Virgil van Dijk;DF;33;Liverpool
+Ryan Gravenberch;MF;22;Liverpool
+Alexis Mac Allister;MF;25;Liverpool
+Ibrahima Konaté;DF;25;Liverpool
+Dominik Szoboszlai;MF;23;Liverpool
+Andy Robertson;DF;30;Liverpool
+Alisson;GK;31;Liverpool
+Luis Díaz;FW,MF;27;Liverpool
+Trent Alexander-Arnold;DF;25;Liverpool
+Cody Gakpo;MF;25;Liverpool
+Curtis Jones;MF,DF;23;Liverpool
+Diogo Jota;FW;27;Liverpool
+Caoimhín Kelleher;GK;25;Liverpool
+Kostas Tsimikas;DF;28;Liverpool
+Darwin Núñez;FW;25;Liverpool
+Conor Bradley;DF;21;Liverpool
+Joe Gomez;DF;27;Liverpool
+Jarell Quansah;DF;21;Liverpool
+Harvey Elliott;MF;21;Liverpool
+Wataru Endo;MF;31;Liverpool
+Federico Chiesa;FW;26;Liverpool
+Vitezslav Jaros;GK;23;Liverpool
+Jayden Danns;FW;18;Liverpool
+Harvey Davies;GK;20;Liverpool
+James McConnell;MF;19;Liverpool
+Tyler Morton;MF;21;Liverpool
+Amara Nallo;DF;17;Liverpool
+Trey Nyoni;MF;17;Liverpool
+Pedri;MF;21;Barcelona
+Raphinha;MF,FW;27;Barcelona
+Robert Lewandowski;FW;35;Barcelona
+Lamine Yamal;MF,FW;17;Barcelona
+Pau Cubarsí;DF;17;Barcelona
+Jules Koundé;DF;25;Barcelona
+Iñigo Martínez;DF;33;Barcelona
+Alejandro Balde;DF;20;Barcelona
+Marc Casado;MF;20;Barcelona
+Iñaki Peña;GK;25;Barcelona
+Wojciech Szczęsny;GK;34;Barcelona
+Eric García;DF,MF;23;Barcelona
+Gavi;MF;19;Barcelona
+Dani Olmo;MF;26;Barcelona
+Fermin López;MF;21;Barcelona
+Ferrán Torres;FW,MF;24;Barcelona
+Gerard Martín;DF;22;Barcelona
+Ronald Araújo;DF;25;Barcelona
+Frenkie de Jong;MF;27;Barcelona
+Marc-André ter Stegen;GK;32;Barcelona
+Héctor Fort;DF;17;Barcelona
+Pablo Torre;MF;21;Barcelona
+Marc Bernal;MF;17;Barcelona
+Ansu Fati;MF;21;Barcelona
+Pau Victor;FW;22;Barcelona
+Andreas Christensen;DF;28;Barcelona
+Sergi Dominguez;DF;19;Barcelona
+Daniel Rodriguez;MF;18;Barcelona
+Ander Astralaga;GK;20;Barcelona
+Álvaro Cortés;DF;19;Barcelona
+Andres Cuenca;DF;17;Barcelona
+Noah Darvich;MF;17;Barcelona
+Landry Farré;DF;17;Barcelona
+Guillermo Fernandez;MF;16;Barcelona
+Toni Fernández;MF;16;Barcelona
+Diego Kochen;GK;18;Barcelona
+Alexis Olmedo;DF;18;Barcelona
+Álex Valle;DF;20;Barcelona
+Áron Yaakobishvili;GK;18;Barcelona
+David Raya;GK;28;Arsenal
+William Saliba;DF;23;Arsenal
+Declan Rice;MF;25;Arsenal
+Thomas Partey;MF,DF;31;Arsenal
+Leandro Trossard;FW;29;Arsenal
+Gabriel Magalhães;DF;26;Arsenal
+Jurriën Timber;DF;23;Arsenal
+Martin Ødegaard;MF;25;Arsenal
+Gabriel Martinelli;FW,MF;23;Arsenal
+Kai Havertz;FW;25;Arsenal
+Bukayo Saka;FW,MF;22;Arsenal
+Mikel Merino;MF,FW;28;Arsenal
+Myles Lewis-Skelly;DF;17;Arsenal
+Ben White;DF;26;Arsenal
+Riccardo Calafiori;DF;22;Arsenal
+Ethan Nwaneri;FW,MF;17;Arsenal
+Jakub Kiwior;DF;24;Arsenal
+Jorginho;MF;32;Arsenal
+Raheem Sterling;FW,MF;29;Arsenal
+Gabriel Jesus;FW;27;Arsenal
+Oleksandr Zinchenko;DF,MF;27;Arsenal
+Kieran Tierney;DF;27;Arsenal
+Nathan Butler-Oyedeji;FW;21;Arsenal
+Takehiro Tomiyasu;DF;25;Arsenal
+Reiss Nelson;FW,MF;24;Arsenal
+Brayden Clarke;DF;17;Arsenal
+Jimi Gower;MF;19;Arsenal
+Ayden Heaven;DF;17;Arsenal
+Jack Henry-Francis;MF;20;Arsenal
+Ismeal Kabia;MF;18;Arsenal
+Maldini Kacurri;DF;18;Arsenal
+Neto;GK;35;Arsenal
+Josh Nichols;DF;18;Arsenal
+Eddie Nketiah;FW;25;Arsenal
+Salah Oulad M'Hand;MF;20;Arsenal
+Jack Porter;GK;16;Arsenal
+Aaron Ramsdale;GK;26;Arsenal
+Tommy Setford;GK;18;Arsenal
+Yann Sommer;GK;35;Inter
+Lautaro Martínez;FW;26;Inter
+Alessandro Bastoni;DF;25;Inter
+Henrikh Mkhitaryan;MF;35;Inter
+Nicolò Barella;MF;27;Inter
+Federico Dimarco;MF;26;Inter
+Marcus Thuram;FW;26;Inter
+Hakan Çalhanoğlu;MF;30;Inter
+Denzel Dumfries;MF;28;Inter
+Matteo Darmian;MF,DF;34;Inter
+Francesco Acerbi;DF;36;Inter
+Stefan de Vrij;DF;32;Inter
+Benjamin Pavard;DF;28;Inter
+Yann Aurel Bisseck;DF;23;Inter
+Carlos Augusto;DF,MF;25;Inter
+Kristjan Asllani;MF;22;Inter
+Davide Frattesi;MF;24;Inter
+Piotr Zieliński;MF;30;Inter
+Mehdi Taremi;FW;32;Inter
+Joaquín Correa;FW,MF;29;Inter
+Marko Arnautović;FW;35;Inter
+Josep Martinez;GK;26;Inter
+Nicola Zalewski;MF;22;Inter
+Tajon Buchanan;DF,MF;25;Inter
+Tomás Palacios;DF;21;Inter
+Luka Topalović;MF;18;Inter
+Mike Aidoo;DF;19;Inter
+Christos Alexiou;DF;19;Inter
+Thomas Berenbruch;MF;19;Inter
+Alessandro Calligaris;GK;19;Inter
+Matteo Cocchi;DF;17;Inter
+Giacomo De Pieri;MF;17;Inter
+Raffaele Di Gennaro;GK;30;Inter
+Alessandro Fontanarosa;DF;21;Inter
+Matteo Motta;DF;19;Inter
+Gabriele Re Cecconi;DF;18;Inter
+Matteo Spinaccè;FW;18;Inter
+Alain Taho;GK;17;Inter
+Mattia Zanchetta;MF;18;Inter
+Jan Oblak;GK;31;Atlético Madrid
+Julián Álvarez;FW;24;Atlético Madrid
+Antoine Griezmann;FW,MF;33;Atlético Madrid
+Marcos Llorente;DF,MF;29;Atlético Madrid
+Pablo Barrios;MF;21;Atlético Madrid
+Giuliano Simeone;MF;21;Atlético Madrid
+Robin Le Normand;DF;27;Atlético Madrid
+Rodrigo De Paul;MF;30;Atlético Madrid
+Clément Lenglet;DF;29;Atlético Madrid
+Javi Galán;DF;29;Atlético Madrid
+Samuel Lino;MF;24;Atlético Madrid
+José María Giménez;DF;29;Atlético Madrid
+Koke;MF;32;Atlético Madrid
+Conor Gallagher;MF;24;Atlético Madrid
+Nahuel Molina;DF;26;Atlético Madrid
+Alexander Sørloth;FW;28;Atlético Madrid
+Reinildo Mandava;DF,MF;30;Atlético Madrid
+César Azpilicueta;DF;34;Atlético Madrid
+Axel Witsel;DF;35;Atlético Madrid
+Rodrigo Riquelme;MF,DF;24;Atlético Madrid
+Ángel Correa;FW;29;Atlético Madrid
+Juan Musso;GK;30;Atlético Madrid
+Thomas Lemar;MF;28;Atlético Madrid
+Adrian Niño;FW;20;Atlético Madrid
+Rayane Belaid;DF;19;Atlético Madrid
+Aitor Gismera;MF;20;Atlético Madrid
+Antonio Gomis;GK;21;Atlético Madrid
+Alejandro Iturbe;GK;20;Atlético Madrid
+Omar Janneh;FW;17;Atlético Madrid
+Ilias Kostis;DF;21;Atlético Madrid
+Horaţiu Moldovan;GK;26;Atlético Madrid
+Javier Serrano;MF;21;Atlético Madrid
+Gerónimo Spina;DF;19;Atlético Madrid
+Arthur Vermeeren;MF;19;Atlético Madrid
+Jonathan Tah;DF;28;Leverkusen
+Granit Xhaka;MF;31;Leverkusen
+Álex Grimaldo;MF;28;Leverkusen
+Lukáš Hrádecký;GK;34;Leverkusen
+Edmond Tapsoba;DF;25;Leverkusen
+Piero Hincapié;DF;22;Leverkusen
+Florian Wirtz;MF;21;Leverkusen
+Jeremie Frimpong;MF;23;Leverkusen
+Patrik Schick;FW;28;Leverkusen
+Robert Andrich;MF,DF;29;Leverkusen
+Aleix García;MF;27;Leverkusen
+Nathan Tella;MF,FW;25;Leverkusen
+Victor Boniface;FW;23;Leverkusen
+Exequiel Palacios;MF;25;Leverkusen
+Nordi Mukiele;DF,MF;26;Leverkusen
+Arthur;MF,DF;21;Leverkusen
+Martin Terrier;MF,FW;27;Leverkusen
+Amine Adli;MF,FW;24;Leverkusen
+Matej Kovar;GK;24;Leverkusen
+Jonas Hofmann;MF;32;Leverkusen
+Mario Hermoso;DF;29;Leverkusen
+Emi Buendía;MF;27;Leverkusen
+Jeanuël Belocian;DF;19;Leverkusen
+Kerim Alajbegović;MF;16;Leverkusen
+Odilon Kossounou;DF;23;Leverkusen
+Niklas Lomb;GK;31;Leverkusen
+Andrea Natali;DF;16;Leverkusen
+Francis Onyeka;MF;17;Leverkusen
+Simeon Rapsch;GK;16;Leverkusen
+Alejo Sarco;FW;18;Leverkusen
+Artem Stepanov;FW;16;Leverkusen
+Lucas Chevalier;GK;22;Lille
+Bafodé Diakité;DF;23;Lille
+Alexsandro Ribeiro;DF;24;Lille
+Benjamin André;MF;33;Lille
+Jonathan David;FW;24;Lille
+Thomas Meunier;DF;32;Lille
+Hákon Haraldsson;MF;21;Lille
+Gabriel Gudmundsson;DF,MF;25;Lille
+Aïssa Mandi;DF;32;Lille
+André Gomes;MF;31;Lille
+Ngal'Ayel Mukau;MF;19;Lille
+Mitchel Bakker;MF,DF;24;Lille
+Matias Fernandez-Pardo;MF,FW;19;Lille
+Rémy Cabella;MF;34;Lille
+Edon Zhegrova;MF;25;Lille
+Ayyoub Bouaddi;MF;16;Lille
+Osame Sahraoui;MF;23;Lille
+Ismaily;DF;34;Lille
+Angel Gomes;MF;23;Lille
+Chuba Akpom;FW;28;Lille
+Tiago Santos;DF,MF;22;Lille
+Mohamed Lamine Bayo;FW;26;Lille
+Nabil Bentaleb;MF;29;Lille
+Ethan Mbappé;MF;17;Lille
+Younes Lachaab;MF;19;Lille
+Ousmane Toure;DF;19;Lille
+Aaron Malouda;FW;18;Lille
+Vincent Burlet;DF;18;Lille
+Marc-Aurèle Caillard;GK;30;Lille
+Isaac Cossier;DF;17;Lille
+Soriba Diaoune;FW;16;Lille
+Rafael Fernandes;DF;22;Lille
+Andrej Ilic;FW;24;Lille
+Vito Mannone;GK;36;Lille
+Samuel Umtiti;DF;30;Lille
+Akim Zedadka;DF;29;Lille
+Emiliano Martínez;GK;31;Aston Villa
+Morgan Rogers;MF;22;Aston Villa
+Youri Tielemans;MF;27;Aston Villa
+Ezri Konsa;DF;26;Aston Villa
+Ollie Watkins;FW;28;Aston Villa
+Lucas Digne;DF;31;Aston Villa
+John McGinn;MF;29;Aston Villa
+Matty Cash;DF;26;Aston Villa
+Pau Torres;DF;27;Aston Villa
+Boubacar Kamara;MF,DF;24;Aston Villa
+Amadou Onana;MF;22;Aston Villa
+Jacob Ramsey;MF;23;Aston Villa
+Leon Bailey;MF;26;Aston Villa
+Tyrone Mings;DF;31;Aston Villa
+Ian Maatsen;DF;22;Aston Villa
+Marco Asensio;MF;28;Aston Villa
+Diego Carlos;DF;31;Aston Villa
+Axel Disasi;DF;26;Aston Villa
+Lamare Bogarde;DF,MF;20;Aston Villa
+Andrés García;DF,MF;21;Aston Villa
+Jáder Durán;FW;20;Aston Villa
+Marcus Rashford;FW,MF;26;Aston Villa
+Ross Barkley;MF;30;Aston Villa
+Jaden Philogene Bidace;MF;22;Aston Villa
+Donyell Malen;MF;25;Aston Villa
+Robin Olsen;GK;34;Aston Villa
+Kosta Nedeljković;DF;18;Aston Villa
+Emi Buendía;FW,MF;27;Aston Villa
+Benjamin Broggio;MF;17;Aston Villa
+Joe Gauci;GK;24;Aston Villa
+Jamaldeen Jimoh;MF;17;Aston Villa
+Sil Swinkels;DF;20;Aston Villa
+Kadan Young;MF;18;Aston Villa
+Oliwier Zych;GK;20;Aston Villa
+Marco Carnesecchi;GK;24;Atalanta
+Marten de Roon;MF,DF;33;Atalanta
+Éderson Silva;MF;25;Atalanta
+Berat Djimsiti;DF;31;Atalanta
+Mateo Retegui;FW;25;Atalanta
+Ademola Lookman;MF,FW;26;Atalanta
+Raoul Bellanova;MF;24;Atalanta
+Isak Hien;DF;25;Atalanta
+Davide Zappacosta;MF;32;Atalanta
+Charles De Ketelaere;MF,FW;23;Atalanta
+Mario Pašalić;MF;29;Atalanta
+Sead Kolašinac;DF;31;Atalanta
+Matteo Ruggeri;MF,DF;22;Atalanta
+Odilon Kossounou;DF;23;Atalanta
+Marco Brescianini;MF;24;Atalanta
+Lazar Samardzic;MF;22;Atalanta
+Juan Cuadrado;MF,FW;36;Atalanta
+Stefan Posch;DF;27;Atalanta
+Giorgio Scalvini;DF;20;Atalanta
+Ibrahim Sulemana;MF;21;Atalanta
+Rui Patrício;GK;36;Atalanta
+Rafael Tolói;DF;33;Atalanta
+Daniel Maldini;MF;22;Atalanta
+Marco Palestra;MF;19;Atalanta
+Juan Musso;GK;30;Atalanta
+Nicolò Zaniolo;FW,MF;25;Atalanta
+Vanja Vlahović;MF;20;Atalanta
+Ben Godfrey;DF,MF;26;Atalanta
+Mitchel Bakker;DF,MF;24;Atalanta
+Federico Cassa;MF;18;Atalanta
+Alberto Manzoni;MF;19;Atalanta
+Gianluca Scamacca;FW;25;Atalanta
+Lorenzo Bernasconi;MF;20;Atalanta
+Pietro Comi;DF;19;Atalanta
+Tommaso Del Lungo;DF;20;Atalanta
+Javison Idele;DF;17;Atalanta
+Relja Obrić;DF;18;Atalanta
+Lorenzo Riccio;MF;18;Atalanta
+Francesco Rossi;GK;33;Atalanta
+Federico Steffanoni;MF;15;Atalanta
+Pietro Tornaghi;DF;18;Atalanta
+Dominic Vavassori;FW;18;Atalanta
+Paolo Vismara;GK;21;Atalanta
+Gregor Kobel;GK;26;Dortmund
+Serhou Guirassy;FW;28;Dortmund
+Pascal Groß;MF,DF;33;Dortmund
+Julian Brandt;MF;28;Dortmund
+Julian Ryerson;DF,MF;26;Dortmund
+Emre Can;DF,MF;30;Dortmund
+Ramy Bensebaini;DF;29;Dortmund
+Nico Schlotterbeck;DF;24;Dortmund
+Waldemar Anton;DF;28;Dortmund
+Jamie Gittens;MF;19;Dortmund
+Felix Nmecha;MF;23;Dortmund
+Marcel Sabitzer;MF;30;Dortmund
+Maximilian Beier;MF,FW;21;Dortmund
+Karim Adeyemi;MF,FW;22;Dortmund
+Niklas Süle;DF;28;Dortmund
+Yan Couto;DF,MF;22;Dortmund
+Daniel Svensson;MF,DF;22;Dortmund
+Donyell Malen;MF;25;Dortmund
+Salih Özcan;MF;26;Dortmund
+Gio Reyna;MF;21;Dortmund
+Julien Duranville;MF;18;Dortmund
+Alexander Meyer;GK;33;Dortmund
+Carney Chukwuemeka;MF;20;Dortmund
+Almugera Kabar;DF;18;Dortmund
+Yannik Lührs;DF;20;Dortmund
+Ayman Azhil;MF;23;Dortmund
+Cole Campbell;FW;18;Dortmund
+Kjell-Arik Wätjen;MF;18;Dortmund
+Rodney Elongo-Yombo;FW,MF;23;Dortmund
+Sébastien Haller;FW;30;Dortmund
+Niklas Jessen;MF;20;Dortmund
+David Lelle;DF;21;Dortmund
+Marcel Lotka;GK;23;Dortmund
+Filippo Mane;DF;19;Dortmund
+Jordi Paulina;FW;19;Dortmund
+Federico Valverde;MF,DF;26;Real Madrid
+Kylian Mbappé;FW;25;Real Madrid
+Aurélien Tchouaméni;DF,MF;24;Real Madrid
+Thibaut Courtois;GK;32;Real Madrid
+Jude Bellingham;MF;21;Real Madrid
+Antonio Rüdiger;DF;31;Real Madrid
+Lucas Vázquez;DF;33;Real Madrid
+Vinicius Júnior;FW,MF;24;Real Madrid
+Fran Garcia;DF;24;Real Madrid
+Rodrygo;MF,FW;23;Real Madrid
+Raúl Asencio;DF;21;Real Madrid
+Luka Modrić;MF;38;Real Madrid
+Brahim Díaz;MF,FW;24;Real Madrid
+Dani Ceballos;MF;27;Real Madrid
+Arda Güler;MF,FW;19;Real Madrid
+Ferland Mendy;DF;29;Real Madrid
+Eduardo Camavinga;MF,DF;21;Real Madrid
+Éder Militão;DF;26;Real Madrid
+Andriy Lunin;GK;25;Real Madrid
+Dani Carvajal;DF;32;Real Madrid
+David Alaba;DF;32;Real Madrid
+Endrick;FW;18;Real Madrid
+Jacobo Ramón;DF;19;Real Madrid
+Jesús Vallejo;DF;27;Real Madrid
+Fran;GK;19;Real Madrid
+Gonzalo García;FW;20;Real Madrid
+Víctor Muñoz;MF;21;Real Madrid
+Chema;MF;19;Real Madrid
+Lorenzo Aguado;DF;21;Real Madrid
+Daniel Yáñez;MF;17;Real Madrid
+Diego Aguado;DF;17;Real Madrid
+David Jiménez;DF;20;Real Madrid
+Youssef Lekhedim;DF;18;Real Madrid
+Sergio Mestre;GK;19;Real Madrid
+Mario Rivas;DF;17;Real Madrid
+Victor Valdepeñas;DF;17;Real Madrid
+Joshua Kimmich;MF;29;Bayern Munich
+Harry Kane;FW;31;Bayern Munich
+Michael Olise;MF;22;Bayern Munich
+Kim Min-jae;DF;27;Bayern Munich
+Manuel Neuer;GK;38;Bayern Munich
+Jamal Musiala;MF;21;Bayern Munich
+Dayot Upamecano;DF;25;Bayern Munich
+Konrad Laimer;DF;27;Bayern Munich
+Raphaël Guerreiro;DF,MF;30;Bayern Munich
+Aleksandar Pavlovic;MF;20;Bayern Munich
+Leroy Sané;MF;28;Bayern Munich
+Alphonso Davies;DF;23;Bayern Munich
+Eric Dier;DF;30;Bayern Munich
+Kingsley Coman;MF;28;Bayern Munich
+Leon Goretzka;MF;29;Bayern Munich
+Serge Gnabry;MF,FW;29;Bayern Munich
+Thomas Müller;MF,FW;34;Bayern Munich
+Josip Stanišić;DF;24;Bayern Munich
+Jonas Urbig;GK;20;Bayern Munich
+João Palhinha;MF;29;Bayern Munich
+Sacha Boey;DF;23;Bayern Munich
+Daniel Peretz;GK;24;Bayern Munich
+Hiroki Ito;DF;25;Bayern Munich
+Mathys Tel;MF;19;Bayern Munich
+Sven Ulreich;GK;35;Bayern Munich
+Gabriel Vidovic;MF;20;Bayern Munich
+Adam Aznou;DF;18;Bayern Munich
+Jonah Kusi-Asare;FW;17;Bayern Munich
+Arijon Ibrahimović;MF;18;Bayern Munich
+Lennart Karl;MF;16;Bayern Munich
+Wisdom Mike;FW;15;Bayern Munich
+Noel Nkili;MF;18;Bayern Munich
+Anthony Pavlesic;GK;18;Bayern Munich
+Max Schmitt;GK;18;Bayern Munich
+Mike Maignan;GK;29;Milan
+Tijjani Reijnders;MF;26;Milan
+Theo Hernández;DF,MF;26;Milan
+Youssouf Fofana;MF;25;Milan
+Christian Pulisic;MF,FW;25;Milan
+Rafael Leão;MF,FW;25;Milan
+Matteo Gabbia;DF;24;Milan
+Strahinja Pavlović;DF;23;Milan
+Malick Thiaw;DF;22;Milan
+Fikayo Tomori;DF;26;Milan
+Yunus Musah;MF,FW;21;Milan
+Emerson;DF;25;Milan
+Álex Jiménez;MF,DF;19;Milan
+Álvaro Morata;FW,MF;31;Milan
+Tammy Abraham;FW;26;Milan
+Ruben Loftus-Cheek;MF;28;Milan
+Samuel Chukwueze;MF,FW;25;Milan
+João Félix;MF;24;Milan
+Santiago Giménez;FW;23;Milan
+Kyle Walker;DF;34;Milan
+Luka Jović;FW;26;Milan
+Filippo Terracciano;DF,MF;21;Milan
+Noah Okafor;FW,MF;24;Milan
+Davide Calabria;DF;27;Milan
+Ismaël Bennacer;MF;26;Milan
+Warren Bondo;MF;20;Milan
+Francesco Camarda;FW;16;Milan
+Marco Sportiello;GK;32;Milan
+Riccardo Sottil;MF;25;Milan
+Davide Bartesaghi;DF;18;Milan
+Alexis Saelemaekers;DF;25;Milan
+Mattia Liberali;MF;17;Milan
+Kevin Zeroli;MF;19;Milan
+Alessandro Florenzi;DF,FW;33;Milan
+Bob Murphy Omoregbe;FW;20;Milan
+Hugo Cuenca;MF;19;Milan
+Lapo Nava;GK;20;Milan
+Noah Raveyre;GK;19;Milan
+Lorenzo Torriani;GK;19;Milan
+Silvano Vos;MF;19;Milan
+Walter Benítez;GK;31;PSV Eindhoven
+Ryan Flamingo;DF;21;PSV Eindhoven
+Olivier Boscagli;DF;26;PSV Eindhoven
+Luuk de Jong;FW;33;PSV Eindhoven
+Guus Til;MF;26;PSV Eindhoven
+Mauro Júnior;DF,MF;25;PSV Eindhoven
+Noa Lang;FW,MF;25;PSV Eindhoven
+Malik Tillman;MF,FW;22;PSV Eindhoven
+Joey Veerman;MF;25;PSV Eindhoven
+Ivan Perišić;FW,MF;35;PSV Eindhoven
+Richy Ledezma;DF;23;PSV Eindhoven
+Ismael Saibari;MF;23;PSV Eindhoven
+Johan Bakayoko;FW,MF;21;PSV Eindhoven
+Jerdy Schouten;MF;27;PSV Eindhoven
+Matteo Dams;DF;20;PSV Eindhoven
+Rick Karsdorp;DF;29;PSV Eindhoven
+Ricardo Pepi;FW;21;PSV Eindhoven
+Armando Obispo;DF;25;PSV Eindhoven
+Sergiño Dest;DF;23;PSV Eindhoven
+Tyrell Malacia;DF;24;PSV Eindhoven
+Fredrik Oppegard;DF;21;PSV Eindhoven
+Hirving Lozano;FW;29;PSV Eindhoven
+Isaac Babadi;MF;19;PSV Eindhoven
+Adamo Nagalo;DF;21;PSV Eindhoven
+Couhaib Driouech;FW,MF;22;PSV Eindhoven
+Joel Drommel;GK;27;PSV Eindhoven
+Jordan Teze;DF,MF;24;PSV Eindhoven
+Tygo Land;MF;18;PSV Eindhoven
+Esmir Bajraktarevic;MF;19;PSV Eindhoven
+Lucas Pérez;FW,MF;35;PSV Eindhoven
+Wessel Kuhn;DF;17;PSV Eindhoven
+Michael Bresser;DF;17;PSV Eindhoven
+Tay Abed;MF;20;PSV Eindhoven
+Emmanuel van de Blaak;DF;19;PSV Eindhoven
+Niek Schiks;GK;20;PSV Eindhoven
+Tijn Smolenaars;GK;19;PSV Eindhoven
+Jesper Uneken;FW;19;PSV Eindhoven
+Bradley Barcola;FW;21;Paris Saint-Germain
+Gianluigi Donnarumma;GK;25;Paris Saint-Germain
+Achraf Hakimi;DF;25;Paris Saint-Germain
+Willian Pacho;DF;22;Paris Saint-Germain
+Warren Zaïre-Emery;MF,DF;18;Paris Saint-Germain
+Lucas Beraldo;DF;20;Paris Saint-Germain
+João Neves;MF,DF;19;Paris Saint-Germain
+Fabián Ruiz Peña;MF;28;Paris Saint-Germain
+Vitinha;MF;24;Paris Saint-Germain
+Ousmane Dembélé;FW;27;Paris Saint-Germain
+Marquinhos;DF;30;Paris Saint-Germain
+Nuno Mendes;DF;22;Paris Saint-Germain
+Lee Kang-in;FW,MF;23;Paris Saint-Germain
+Désiré Doué;MF,FW;19;Paris Saint-Germain
+Gonçalo Ramos;FW;23;Paris Saint-Germain
+Khvicha Kvaratskhelia;FW;23;Paris Saint-Germain
+Lucas Hernández;DF;28;Paris Saint-Germain
+Matvei Safonov;GK;25;Paris Saint-Germain
+Senny Mayulu;MF;18;Paris Saint-Germain
+Marco Asensio;FW,MF;28;Paris Saint-Germain
+Milan Škriniar;DF;29;Paris Saint-Germain
+Ibrahim Mbaye;FW;16;Paris Saint-Germain
+Randal Kolo Muani;FW;25;Paris Saint-Germain
+Yoram Zague;DF;18;Paris Saint-Germain
+Axel Tapé;DF;16;Paris Saint-Germain
+Arnau Tenas;GK;23;Paris Saint-Germain
+Noham Kamara;DF;17;Paris Saint-Germain
+Presnel Kimpembe;DF;28;Paris Saint-Germain
+Naoufel El Hannach;DF;17;Paris Saint-Germain
+Louis Mouquet;GK;20;Paris Saint-Germain
+Quentin Ndjantou Mbitcha;FW;17;Paris Saint-Germain
+Wassim Slama;MF;15;Paris Saint-Germain
+Carlos Soler;MF;27;Paris Saint-Germain
+Anatolii Trubin;GK;22;Benfica
+Álvaro Carreras;DF;21;Benfica
+Nicolás Otamendi;DF;36;Benfica
+Orkun Kökçü;MF;23;Benfica
+Fredrik Aursnes;MF;28;Benfica
+Tomás Araújo;DF;22;Benfica
+Vangelis Pavlidis;FW;25;Benfica
+Kerem Aktürkoğlu;FW,MF;25;Benfica
+Florentino Luís;MF;24;Benfica
+António Silva;DF;20;Benfica
+Ángel Di María;FW,MF;36;Benfica
+Alexander Bah;DF;26;Benfica
+Leandro Barreiro Martins;MF;24;Benfica
+Zeki Amdouni;MF,FW;23;Benfica
+Samuel Dahl;MF,DF;21;Benfica
+Jan-Niklas Beste;DF,MF;25;Benfica
+Bruma;FW,MF;29;Benfica
+Andrea Belotti;FW;30;Benfica
+Gianluca Prestianni;MF;18;Benfica
+Andreas Schjelderup;FW;20;Benfica
+Leandro Santos;MF;18;Benfica
+Arthur Cabral;FW;26;Benfica
+Samuel Soares;GK;22;Benfica
+João Mário;MF;31;Benfica
+Manuel Manu;MF;23;Benfica
+Renato Sanches;MF;26;Benfica
+Benjamín Rollheiser;MF;24;Benfica
+Morato;DF;23;Benfica
+Tiago Gouveia;MF;23;Benfica
+Marcos Leonardo;FW;21;Benfica
+João Rêgo;MF;19;Benfica
+Nuno Felix;MF;20;Benfica
+Issa Kaboré;DF,MF;23;Benfica
+Adrian Bajrami;DF;22;Benfica
+Diogo Prioste;MF;20;Benfica
+Gustavo Marques;DF;22;Benfica
+Martim Neto;MF;21;Benfica
+Maghnes Akliouche;MF;22;Monaco
+Thilo Kehrer;DF;27;Monaco
+Takumi Minamino;MF;29;Monaco
+Lamine Camara;MF;20;Monaco
+Denis Zakaria;MF;27;Monaco
+Wilfried Singo;DF;23;Monaco
+Vanderson;DF;23;Monaco
+Caio Henrique Oliveira Silva;DF;27;Monaco
+Breel Embolo;FW,MF;27;Monaco
+Eliesse Ben Seghir;MF;19;Monaco
+Philipp Köhn;GK;26;Monaco
+Christian Mawissa;DF;19;Monaco
+Mika Biereth;FW;21;Monaco
+Radosław Majecki;GK;24;Monaco
+Aleksandr Golovin;MF;28;Monaco
+Soungoutou Magassa;MF;20;Monaco
+Mohammed Salisu;DF;25;Monaco
+Jordan Teze;DF,MF;24;Monaco
+Folarin Balogun;FW;23;Monaco
+George Ilenikhena;FW;17;Monaco
+Kassoum Ouattara;MF,DF;19;Monaco
+Krépin Diatta;DF,MF;25;Monaco
+Al-Musrati;MF;28;Monaco
+Ismail Jakobs;DF;24;Monaco
+Saïmon Bouabré;MF;18;Monaco
+Eliot Matazo;MF;22;Monaco
+Lucas Michal;FW;19;Monaco
+Mamadou Coulibaly;MF;20;Monaco
+Aladji Bamba;MF;18;Monaco
+Edan Diop;MF;19;Monaco
+Bradel Kiwa;MF;18;Monaco
+Yann Liénard;GK;21;Monaco
+Guillermo Maripán;DF;30;Monaco
+Samuel Nibombé;DF;16;Monaco
+Jules Stawiecki;GK;17;Monaco
+Marco Bizot;GK;33;Brest
+Mahdi Camara;MF;26;Brest
+Kenny Lala;DF;32;Brest
+Ludovic Ajorque;FW;30;Brest
+Brendan Chardonnet;DF;29;Brest
+Hugo Magnetti;MF;26;Brest
+Massadio Haïdara;DF;31;Brest
+Abdoulaye Ndiaye;DF;22;Brest
+Mathias Pereira Lage;MF,FW;27;Brest
+Pierre Lees-Melou;MF;31;Brest
+Julien Le Cardinal;DF;26;Brest
+Romain Del Castillo;FW,MF;28;Brest
+Abdallah Sima;FW,MF;23;Brest
+Kamory Doumbia;MF,FW;21;Brest
+Mama Samba Baldé;FW,MF;28;Brest
+Edimilson Fernandes;MF,DF;28;Brest
+Romain Faivre;MF,FW;26;Brest
+Jordan Amavi;DF;30;Brest
+Luck Zogbé;DF;19;Brest
+Jonas Martin;MF;34;Brest
+Soumaïla Coulibaly;DF;20;Brest
+Ibrahim Salah;MF,FW;22;Brest
+Grégoire Coudert;GK;25;Brest
+Justin Bourgault;DF;18;Brest
+Jérémy Le Douaron;FW;26;Brest
+Bradley Locko;DF;22;Brest
+Hamidou Makalou;MF;18;Brest
+Axel Camblan;FW;20;Brest
+Hianga'a Mbock;MF;24;Brest
+Sérigné Diop;FW;19;Brest
+Léo Botz;FW;19;Brest
+Achraf Dari;DF;25;Brest
+Paris Irie;DF;18;Brest
+Noah Jauny;GK;19;Brest
+Ibrahim Kanté;MF;17;Brest
+Raphael Le Guen;DF;17;Brest
+Igor Paixão;MF,FW;24;Feyenoord
+Dávid Hancko;DF;26;Feyenoord
+Timon Wellenreuther;GK;28;Feyenoord
+Antoni Milambo;MF;19;Feyenoord
+Givairo Read;DF;18;Feyenoord
+Anis Hadj Moussa;MF,FW;22;Feyenoord
+Hwang In-beom;MF;27;Feyenoord
+Thomas Beelen;DF;23;Feyenoord
+Quinten Timber;MF;23;Feyenoord
+Gernot Trauner;DF;32;Feyenoord
+Gijs Smal;DF,MF;26;Feyenoord
+Hugo Bueno;DF;21;Feyenoord
+Jakub Moder;MF;25;Feyenoord
+Ayase Ueda;FW;25;Feyenoord
+Ramiz Zerrouki;MF;26;Feyenoord
+Santiago Giménez;FW;23;Feyenoord
+Julián Carranza;FW;24;Feyenoord
+Quilindschy Hartman;DF;22;Feyenoord
+Ibrahim Osman;MF,FW;19;Feyenoord
+Calvin Stengs;MF,FW;25;Feyenoord
+Jordan Lotomba;DF;25;Feyenoord
+Bart Nieuwkoop;DF,MF;28;Feyenoord
+Luka Ivanušec;MF,FW;25;Feyenoord
+Justin Bijlow;GK;26;Feyenoord
+Lutsharel Geertruida;DF;24;Feyenoord
+Oussama Targhalline;MF;22;Feyenoord
+Gjivai Zechiël;MF;20;Feyenoord
+Zepiqueno Redmond;FW;18;Feyenoord
+Chris Nadje;MF;22;Feyenoord
+Neraysho Kasanwirjo;DF;22;Feyenoord
+Plamen Andreev;GK;19;Feyenoord
+Marcos López;MF;24;Feyenoord
+Aymen Sliti;FW;18;Feyenoord
+Facundo González;DF;21;Feyenoord
+Stephano Carrillo;FW;18;Feyenoord
+Shiloh ’t Zand;MF;21;Feyenoord
+Jeyland Mitchell;DF;19;Feyenoord
+Marcus Pedersen;DF,MF;24;Feyenoord
+Djomar Giersthove;DF;19;Feyenoord
+Jan Plug;DF;19;Feyenoord
+Manuel Locatelli;MF;26;Juventus
+Michele Di Gregorio;GK;27;Juventus
+Kenan Yıldız;MF;19;Juventus
+Weston McKennie;MF,DF;25;Juventus
+Khéphren Thuram;MF;23;Juventus
+Federico Gatti;DF;26;Juventus
+Pierre Kalulu;DF;24;Juventus
+Andrea Cambiaso;DF,MF;24;Juventus
+Teun Koopmeiners;MF;26;Juventus
+Nicolás González;MF,FW;26;Juventus
+Dušan Vlahović;FW;24;Juventus
+Nicolò Savona;DF;21;Juventus
+Timothy Weah;MF,DF;24;Juventus
+Randal Kolo Muani;FW;25;Juventus
+Francisco Conceição;MF;21;Juventus
+Renato Veiga;DF;21;Juventus
+Lloyd Kelly;DF;25;Juventus
+Samuel Mbangula;MF;20;Juventus
+Danilo;DF;33;Juventus
+Gleison Bremer;DF;27;Juventus
+Juan David Cabal;DF;23;Juventus
+Nicolò Fagioli;MF;23;Juventus
+Mattia Perin;GK;31;Juventus
+Douglas Luiz;MF;26;Juventus
+Alberto costa;DF,MF;20;Juventus
+Jonas Rouhi;DF;20;Juventus
+Vasilije Adžić;MF;18;Juventus
+Diego Pugno;DF;18;Juventus
+Lorenzo Anghelè;FW;19;Juventus
+Giovanni Daffara;GK;19;Juventus
+Javier Gil;DF;18;Juventus
+Alfonso Montero;DF;17;Juventus
+Augusto Owusu;DF;19;Juventus
+Filippo Pagnucco;DF;18;Juventus
+Christos Papadopoulos;MF;19;Juventus
+Carlo Pinsoglio;GK;34;Juventus
+Niccolò Rizzo;DF;17;Juventus
+Riccardo Turicchia;DF;21;Juventus
+Callum McGregor;MF;31;Celtic
+Kasper Schmeichel;GK;37;Celtic
+Alistair Johnston;DF;25;Celtic
+Daizen Maeda;FW;26;Celtic
+Cameron Carter-Vickers;DF;26;Celtic
+Reo Hatate;MF;26;Celtic
+Arne Engels;MF;20;Celtic
+Greg Taylor;DF;26;Celtic
+Nicolas-Gerrit Kühn;FW;24;Celtic
+Auston Trusty;DF;25;Celtic
+Liam Scales;DF;25;Celtic
+Adam Idah;FW;23;Celtic
+Kyogo Furuhashi;FW,MF;29;Celtic
+Luke McCowan;MF;26;Celtic
+Paulo Bernardo;MF;22;Celtic
+Yang Hyun-jun;FW,MF;22;Celtic
+James Forrest;FW,MF;33;Celtic
+Anthony Ralston;DF;25;Celtic
+Jeffrey Schlupp;DF;31;Celtic
+Álex Valle;DF;20;Celtic
+Jota;FW;25;Celtic
+Viljami Sinisalo;GK;22;Celtic
+Maik Nawrocki;DF;23;Celtic
+Matt O'Riley;MF;23;Celtic
+Luis Enrique Palma;FW;24;Celtic
+Johnny Kenny;FW;21;Celtic
+Stephen Welsh;DF;24;Celtic
+Odin Thiago Holm;MF;21;Celtic
+Sean Mcardle;MF;16;Celtic
+Michael Johnston;FW,MF;25;Celtic
+Jude Bonnar;FW;18;Celtic
+Francis Turley;MF;18;Celtic
+Scott Bain;GK;32;Celtic
+Daniel Cummings;FW;18;Celtic
+Colby Donovan;DF;17;Celtic
+Tomoki Iwata;DF,MF;27;Celtic
+Adam Montgomery;DF;22;Celtic
+Dane Murray;DF;21;Celtic
+Joško Gvardiol;DF;22;Manchester City
+Erling Haaland;FW;24;Manchester City
+Bernardo Silva;MF;29;Manchester City
+Ederson Moraes;GK;30;Manchester City
+Rúben Dias;DF,MF;27;Manchester City
+İlkay Gündoğan;MF;33;Manchester City
+Mateo Kovačić;MF,DF;30;Manchester City
+Manuel Akanji;DF,MF;29;Manchester City
+Rico Lewis;DF,MF;19;Manchester City
+Sávio;MF,FW;20;Manchester City
+Phil Foden;MF,FW;24;Manchester City
+Kevin De Bruyne;MF,FW;33;Manchester City
+Matheus Nunes;DF,MF;25;Manchester City
+Jeremy Doku;MF,FW;22;Manchester City
+Omar Marmoush;MF,FW;25;Manchester City
+Stefan Ortega;GK;31;Manchester City
+Kyle Walker;DF;34;Manchester City
+Nicolás González;MF;22;Manchester City
+Nathan Aké;DF;29;Manchester City
+Jack Grealish;MF,FW;28;Manchester City
+John Stones;DF;30;Manchester City
+Nico O'Reilly;DF;19;Manchester City
+Abdukodir Khusanov;DF;20;Manchester City
+James Mcatee;MF;21;Manchester City
+Jahmai Simpson-Pusey;DF;18;Manchester City
+Rodri;MF;28;Manchester City
+Divin Mubama;FW;19;Manchester City
+Oscar Bobb;FW,MF;21;Manchester City
+Claudio Echeverri;MF;18;Manchester City
+Vitor Reis;DF;18;Manchester City
+Max Alleyne;DF;19;Manchester City
+Thorsten Brits;GK;17;Manchester City
+Scott Carson;GK;38;Manchester City
+Issa Kaboré;DF,MF;23;Manchester City
+Josh Wilson-Esbrand;DF;21;Manchester City
+Jacob Wright;MF;18;Manchester City
+Francisco Trincão;MF,FW;24;Sporting CP
+Viktor Gyökeres;FW;26;Sporting CP
+Ousmane Diomande;DF;20;Sporting CP
+Geovany Quenda;MF;17;Sporting CP
+Morten Hjulmand;MF;25;Sporting CP
+Gonçalo Inácio;DF;22;Sporting CP
+Zeno Debast;MF,DF;20;Sporting CP
+Geny Catamo;MF;23;Sporting CP
+Maxi Araújo;MF,DF;24;Sporting CP
+Eduardo Quaresma;DF;22;Sporting CP
+Rui Silva;GK;30;Sporting CP
+Matheus Reis;DF,MF;29;Sporting CP
+Daniel Bragança;MF;25;Sporting CP
+Hidemasa Morita;MF;29;Sporting CP
+Pedro Gonçalves;MF,FW;26;Sporting CP
+Franco Israel;GK;24;Sporting CP
+Iván Fresneda;MF,DF;19;Sporting CP
+Conrad Harder;FW,MF;19;Sporting CP
+Vladan Kovačević;GK;26;Sporting CP
+Jerry St. Juste;DF;27;Sporting CP
+João Simões;MF;17;Sporting CP
+Nuno Santos;MF;29;Sporting CP
+Ricardo Esgaio;DF;31;Sporting CP
+Eduardo Felicíssimo;MF;17;Sporting CP
+Marcus Edwards;MF;25;Sporting CP
+Alexandre Brito;MF;19;Sporting CP
+Mateus Fernandes;MF;20;Sporting CP
+Henrique Arreiol;MF;19;Sporting CP
+Dario Essugo;MF;19;Sporting CP
+Biel;FW,MF;23;Sporting CP
+José Silva;DF;18;Sporting CP
+Mauro Meireles Couto;FW;18;Sporting CP
+Rodrigo Ribeiro;FW;19;Sporting CP
+Afonso Moreira;FW;19;Sporting CP
+Miguel Alves;DF;18;Sporting CP
+Lucas Anjos;FW;20;Sporting CP
+Diego Callai;GK;20;Sporting CP
+Luís Gomes;FW;20;Sporting CP
+Manuel Mendonça;MF;19;Sporting CP
+Rafael Nel;FW;19;Sporting CP
+Kauã Pinto;MF;20;Sporting CP
+Bruno Ramos;DF;19;Sporting CP
+Francisco Silva;GK;18;Sporting CP
+Gabriel Silva;FW;17;Sporting CP
+Brandon Mechele;DF;31;Club Brugge
+Hans Vanaken;MF;31;Club Brugge
+Simon Mignolet;GK;36;Club Brugge
+Christos Tzolis;MF;22;Club Brugge
+Maxim De Cuyper;DF;23;Club Brugge
+Ardon Jashari;MF;22;Club Brugge
+Joel Ordóñez;DF;20;Club Brugge
+Raphael Onyedika;MF;23;Club Brugge
+Joaquin Seys;DF;19;Club Brugge
+Gustaf Nilsson;FW;27;Club Brugge
+Hugo Vetlesen;MF;24;Club Brugge
+Ferran Jutglà;FW,MF;25;Club Brugge
+Kyriani Sabbe;DF;19;Club Brugge
+Andreas Skov Olsen;MF,FW;24;Club Brugge
+Chemsdine Talbi;MF,FW;19;Club Brugge
+Romeo Vermant;FW;20;Club Brugge
+Hugo Siquet;DF,MF;22;Club Brugge
+Zaid Romero;DF;24;Club Brugge
+Casper Nielsen;MF;30;Club Brugge
+Nordin Jackers;GK;26;Club Brugge
+Jorne Spileers;DF;19;Club Brugge
+Michał Skóraś;MF;24;Club Brugge
+Bjorn Meijer;DF;21;Club Brugge
+Antonio Nusa;MF;19;Club Brugge
+Shandre Campbell;MF;19;Club Brugge
+Lynnt Audoor;MF;20;Club Brugge
+Axl De Corte;GK;18;Club Brugge
+Denzel De Roeve;DF;19;Club Brugge
+Dani van den Heuvel;GK;21;Club Brugge
+Amine Et-Taibi;DF;21;Club Brugge
+Kaye Furo;FW;17;Club Brugge
+Vince Osuji;DF;18;Club Brugge
+Marko Pjaca;MF;29;Dinamo Zagreb
+Martin Baturina;MF;21;Dinamo Zagreb
+Ronaël Pierre-Gabriel;DF,MF;26;Dinamo Zagreb
+Josip Mišić;MF;30;Dinamo Zagreb
+Ivan Nevistić;GK;26;Dinamo Zagreb
+Kévin Théophile-Catherine;DF;34;Dinamo Zagreb
+Sandro Kulenović;FW;24;Dinamo Zagreb
+Stefan Ristovski;DF;32;Dinamo Zagreb
+Petar Sučić;MF;20;Dinamo Zagreb
+Raúl Torrente;DF;22;Dinamo Zagreb
+Luka Stojkovic;MF;20;Dinamo Zagreb
+Bartol Franjić;DF;24;Dinamo Zagreb
+Samy Mmaee;DF;27;Dinamo Zagreb
+Arbër Hoxha;MF,DF;25;Dinamo Zagreb
+Arijan Ademi;MF;33;Dinamo Zagreb
+Niko Galesic;DF,MF;23;Dinamo Zagreb
+Wilfried Kanga;FW,MF;26;Dinamo Zagreb
+Danijel Zagorac;GK;37;Dinamo Zagreb
+Bruno Petković;FW;29;Dinamo Zagreb
+Maxime Bernauer;DF,MF;26;Dinamo Zagreb
+Juan Córdoba;MF,FW;21;Dinamo Zagreb
+Dario Špikić;MF;25;Dinamo Zagreb
+Lukas Kačavenda;MF;21;Dinamo Zagreb
+Marko Rog;MF;29;Dinamo Zagreb
+Takuya Ogiwara;DF;24;Dinamo Zagreb
+Nikola Čavlina;GK;22;Dinamo Zagreb
+Nathanaël Mbuku;MF;22;Dinamo Zagreb
+Sadegh Moharrami;DF;28;Dinamo Zagreb
+Branko Pavić;MF;17;Dinamo Zagreb
+Leon Belcar;MF;22;Dinamo Zagreb
+Petar Bočkaj;MF;28;Dinamo Zagreb
+Luka Vrbančić;MF;19;Dinamo Zagreb
+Noa Mikić;DF;17;Dinamo Zagreb
+Leon Jakirovic;FW;16;Dinamo Zagreb
+Mauro Perkovic;DF;21;Dinamo Zagreb
+Dino Perić;DF;30;Dinamo Zagreb
+Mislav Čutuk;FW;17;Dinamo Zagreb
+Tomas Baković;MF;18;Dinamo Zagreb
+Leo Rimac;FW;18;Dinamo Zagreb
+Fallou Faye;MF;18;Dinamo Zagreb
+Ivan Filipović;GK;29;Dinamo Zagreb
+Jan Oliveras;DF;20;Dinamo Zagreb
+Borna Orlić;DF;17;Dinamo Zagreb
+Antonio Rajić;GK;17;Dinamo Zagreb
+Alexander Nübel;GK;27;Stuttgart
+Angelo Stiller;MF;23;Stuttgart
+Atakan Karazor;MF;27;Stuttgart
+Maximilian Mittelstädt;DF,MF;27;Stuttgart
+Julian Chabot;DF;26;Stuttgart
+Chris Führich;MF;26;Stuttgart
+Enzo Millot;MF;22;Stuttgart
+Jamie Leweling;MF;23;Stuttgart
+Ermedin Demirović;FW;26;Stuttgart
+Deniz Undav;FW,MF;28;Stuttgart
+Josha Vagnoman;DF,MF;23;Stuttgart
+Nick Woltemade;FW,MF;22;Stuttgart
+Anthony Rouault;DF;23;Stuttgart
+Leonidas Stergiou;DF;22;Stuttgart
+Ramon Hendriks;DF;23;Stuttgart
+Finn Jeltsch;DF;18;Stuttgart
+Fabian Rieder;MF;22;Stuttgart
+Anrie Chase;DF;20;Stuttgart
+Ameen Al-Dakhil;DF;22;Stuttgart
+Pascal Stenzel;DF;28;Stuttgart
+Jacob Bruun Larsen;MF;25;Stuttgart
+El Bilal Touré;FW;22;Stuttgart
+Yannik Keitel;MF;24;Stuttgart
+Luca Jaquez;DF;21;Stuttgart
+Frans Krätzig;DF;21;Stuttgart
+Justin Diehl;MF;19;Stuttgart
+Dan-Axel Zagadou;DF;25;Stuttgart
+Nikolas Nartey;MF;24;Stuttgart
+Jarzinho Malanga;MF;18;Stuttgart
+Fabian Bredlow;GK;29;Stuttgart
+Stefan Drljača;GK;25;Stuttgart
+Silas Katompa;FW,MF;25;Stuttgart
+Valerii Bondar;DF;25;Shakhtar Donetsk
+Artem Bondarenko;MF;23;Shakhtar Donetsk
+Dmytro Riznyk;GK;25;Shakhtar Donetsk
+Heorhiy Sudakov;MF;21;Shakhtar Donetsk
+Mykola Matviyenko;DF;28;Shakhtar Donetsk
+Kevin;MF,FW;21;Shakhtar Donetsk
+Dmytro Kryskiv;MF;23;Shakhtar Donetsk
+Pedro Henrique;DF;22;Shakhtar Donetsk
+Vinicius Tobias;DF;20;Shakhtar Donetsk
+Marlon Gomes;MF;20;Shakhtar Donetsk
+Pedrinho;MF,FW;26;Shakhtar Donetsk
+Eguinaldo;FW;19;Shakhtar Donetsk
+Yukhym Konoplia;DF;24;Shakhtar Donetsk
+Irakli Azarov;DF;22;Shakhtar Donetsk
+Oleksandr Zubkov;MF,FW;27;Shakhtar Donetsk
+Lassina Franck Traoré;FW;23;Shakhtar Donetsk
+Danylo Sikan;FW;23;Shakhtar Donetsk
+Newerton;MF,FW;19;Shakhtar Donetsk
+Alaa Ghram;DF;23;Shakhtar Donetsk
+Kiril Fesiun;GK;21;Shakhtar Donetsk
+Yehor Nazaryna;MF,DF;27;Shakhtar Donetsk
+Maryan Shved;MF,FW;27;Shakhtar Donetsk
+Kauã Elias;FW;18;Shakhtar Donetsk
+Alisson;MF;18;Shakhtar Donetsk
+Bartol Franjić;DF;24;Shakhtar Donetsk
+Maryan Faryna;DF;20;Shakhtar Donetsk
+Taras Stepanenko;MF;34;Shakhtar Donetsk
+Denys Tvardovskyi;GK;21;Shakhtar Donetsk
+Viktor Tsukanov;MF;18;Shakhtar Donetsk
+Anton Hlushchenko;MF;20;Shakhtar Donetsk
+Diego Arroyo;DF;19;Shakhtar Donetsk
+Mykola Oharkov;DF;19;Shakhtar Donetsk
+Tymur Puzankov;GK;21;Shakhtar Donetsk
+;Playing Time;;
+Player;Nation;Pos;Age
+Remo Freuler;MF;32;Bologna
+Sam Beukema;DF;25;Bologna
+Jhon Lucumí;DF;26;Bologna
+Łukasz Skorupski;GK;33;Bologna
+Santiago Castro;FW;19;Bologna
+Dan Ndoye;MF,FW;23;Bologna
+Juan Miranda;DF;24;Bologna
+Jens Odgaard;MF;25;Bologna
+Riccardo Orsolini;MF,FW;27;Bologna
+Benjamín Domínguez;MF;20;Bologna
+Nikola Moro;MF;26;Bologna
+Tommaso Pobega;MF;25;Bologna
+Lorenzo De Silvestri;DF;36;Bologna
+Emil Holm;DF;24;Bologna
+Babis Lykogiannis;DF;30;Bologna
+Thijs Dallinga;FW;23;Bologna
+Federico Ravaglia;GK;24;Bologna
+Lewis Ferguson;MF;24;Bologna
+Giovanni Fabbian;MF;21;Bologna
+Nicolò Casale;DF;26;Bologna
+Michel Aebischer;MF;27;Bologna
+Stefan Posch;DF;27;Bologna
+Davide Calabria;DF;27;Bologna
+Martin Erlić;DF;26;Bologna
+Nicolò Cambiaghi;MF,FW;23;Bologna
+Jesper Karlsson;MF,FW;26;Bologna
+Kacper Urbanski;MF;19;Bologna
+Samuel Iling-Junior;MF;20;Bologna
+Oussama El Azzouzi;MF;23;Bologna
+Estanis;FW;20;Bologna
+Nicola Bagnolini;GK;20;Bologna
+Naïm Byar;MF;19;Bologna
+Tommaso Corazza;MF;20;Bologna
+Mihajlo Ilić;DF;21;Bologna
+Massimo Pessina;GK;16;Bologna
+;Playing Time;;
+Player;Nation;Pos;Age
+Seol Young-woo;DF;25;Red Star
+Timi Elšnik;MF;26;Red Star
+Guélor Kanga;MF;33;Red Star
+Cherif Ndiaye;FW;28;Red Star
+Bruno Duarte;FW,MF;28;Red Star
+Luka Ilić;MF;25;Red Star
+Rade Krunić;DF,MF;30;Red Star
+Mirko Ivanić;MF;30;Red Star
+Milson;MF;24;Red Star
+Andrija Maksimović;MF;17;Red Star
+Milan Rodić;DF;33;Red Star
+Nasser Djiga;DF;21;Red Star
+Ivan Guteša;GK;22;Red Star
+Ebenezer Annan;DF;21;Red Star
+Aleksandar Katai;MF,FW;33;Red Star
+Andrej Đurić;DF;20;Red Star
+Omri Glazer;GK;28;Red Star
+Veljko Milosavljević;DF;17;Red Star
+Ognjen Mimovic;DF;19;Red Star
+Silas Katompa;MF;25;Red Star
+Marko Ilić;GK;26;Red Star
+Vanja Drkušič;DF;24;Red Star
+Dálcio;FW,MF;28;Red Star
+Stefan Lekovic;DF;20;Red Star
+Uroš Spajić;DF;31;Red Star
+Jovan Šljivić;MF;18;Red Star
+Egor Prutsev;MF;21;Red Star
+Hwang In-beom;MF;27;Red Star
+Peter Olayinka;FW,MF;28;Red Star
+Nemanja Radonjić;MF;28;Red Star
+José Luis Rodríguez;FW,MF;26;Red Star
+Nemanja Stojić;DF;26;Red Star
+Savo Radanović;GK;15;Red Star
+Strahinja Stojković;DF;17;Red Star
+Keimer Sandoval;DF;18;Red Star
+Lazar Jovanović;FW;17;Red Star
+Srđan Mijailović;MF;30;Red Star
+Vasilije Kostov;MF;16;Red Star
+Miloš Degenek;DF,MF;30;Red Star
+Vuk Draškić;GK;17;Red Star
+Moustapha Fall;DF;19;Red Star
+Nikola Knezevic;MF;21;Red Star
+Uroš Sremčević;FW;18;Red Star
+David Đurić;DF;18;Red Star
+Kjell Scherpen;GK;24;Sturm Graz
+Otar Kiteishvili;MF,FW;28;Sturm Graz
+Dimitri Lavalée;DF;27;Sturm Graz
+William Bøving;FW,MF;21;Sturm Graz
+Emanuel Aiwum;DF;23;Sturm Graz
+Jon Gorenc Stanković;MF;28;Sturm Graz
+Malick Yalcouye;MF;18;Sturm Graz
+Tomi Horvat;MF;25;Sturm Graz
+Gregory Wüthrich;DF;29;Sturm Graz
+Max Johnston;DF;20;Sturm Graz
+Mika Biereth;FW,MF;21;Sturm Graz
+Seedy Jatta;FW,MF;21;Sturm Graz
+Jusuf Gazibegović;DF;24;Sturm Graz
+Tochi Chukwuani;MF;21;Sturm Graz
+Niklas Geyrhofer;DF;24;Sturm Graz
+Leon Grgic;FW;18;Sturm Graz
+Emir Karic;DF;27;Sturm Graz
+Amady Camara;FW;19;Sturm Graz
+Lovro Zvonarek;FW,MF;19;Sturm Graz
+Arjan Malic;DF;18;Sturm Graz
+Erencan Yardimci;FW;22;Sturm Graz
+Daniil Khudiakov;GK;20;Sturm Graz
+Stefan Hierländer;MF;33;Sturm Graz
+Emran Soglo;DF;19;Sturm Graz
+Fally Mayulu;FW;22;Sturm Graz
+Jacob Hodl;MF;17;Sturm Graz
+Belmin Beganovic;FW;19;Sturm Graz
+Manprit Sarkaria;FW,MF;27;Sturm Graz
+Peter Kiedl;FW;20;Sturm Graz
+Konstantin Schopp;DF;18;Sturm Graz
+Matteo Bignetti;GK;20;Sturm Graz
+Peter Vindahl Jensen;GK;26;Sparta Prague
+Filip Panák;DF;28;Sparta Prague
+Jaroslav Zelený;DF,MF;31;Sparta Prague
+Martin Vitík;DF;21;Sparta Prague
+Lukáš Sadílek;MF;28;Sparta Prague
+Qazim Laçi;MF;28;Sparta Prague
+Kaan Kairinen;MF;25;Sparta Prague
+Asger Sørensen;DF;28;Sparta Prague
+Lukáš Haraslín;FW,MF;28;Sparta Prague
+Jan Kuchta;FW;27;Sparta Prague
+Matěj Ryneš;MF;23;Sparta Prague
+Martin Suchomel;MF;21;Sparta Prague
+Tomáš Wiesner;MF;27;Sparta Prague
+Ermal Krasniqi;MF,FW;25;Sparta Prague
+Albion Rrahmani;FW;23;Sparta Prague
+Veljko Birmančević;FW,MF;26;Sparta Prague
+Emannuel Uchenna;DF,MF;20;Sparta Prague
+Victor Olatunji;FW;24;Sparta Prague
+Elias Cobbaut;DF;26;Sparta Prague
+Mathias Ross;DF;23;Sparta Prague
+Ángelo Preciado;MF;26;Sparta Prague
+Patrik Vydra;MF;21;Sparta Prague
+Kryštof Daněk;MF,FW;21;Sparta Prague
+Markus Solbakken;MF;24;Sparta Prague
+Indrit Tuci;FW,MF;23;Sparta Prague
+Magnus Kofod Andersen;MF;25;Sparta Prague
+Jakub Pesek;MF;31;Sparta Prague
+Adam Sevinsky;DF;20;Sparta Prague
+David Pavelka;MF,DF;33;Sparta Prague
+Imanol;MF;24;Sparta Prague
+Radek Siler;FW;19;Sparta Prague
+Lukáš Penxa;MF;20;Sparta Prague
+Roman Horák;MF;19;Sparta Prague
+Jesse Heerkens;GK;18;Sparta Prague
+Ondřej Kukučka;DF;20;Sparta Prague
+Roman Mokrovics;MF;18;Sparta Prague
+Jakub Surovčík;GK;22;Sparta Prague
+Dalibor Večerka;DF;21;Sparta Prague
+Vojtěch Vorel;GK;28;Sparta Prague
+Péter Gulácsi;GK;34;RB Leipzig
+Benjamin Šeško;FW,MF;21;RB Leipzig
+Loïs Openda;FW;24;RB Leipzig
+Willi Orban;DF;31;RB Leipzig
+Xavi Simons;MF;21;RB Leipzig
+David Raum;MF,DF;26;RB Leipzig
+Nicolas Seiwald;MF,DF;23;RB Leipzig
+Lukas Klostermann;DF;28;RB Leipzig
+Christoph Baumgartner;MF,FW;24;RB Leipzig
+Kevin Kampl;MF;33;RB Leipzig
+Castello Lukeba;DF;21;RB Leipzig
+Arthur Vermeeren;MF;19;RB Leipzig
+Lutsharel Geertruida;DF;24;RB Leipzig
+Antonio Nusa;MF,DF;19;RB Leipzig
+Amadou Haidara;MF;26;RB Leipzig
+Ridle Baku;MF;26;RB Leipzig
+El Chadaille Bitshiabu;DF;19;RB Leipzig
+Benjamin Henrichs;DF,MF;27;RB Leipzig
+Kosta Nedeljković;DF,MF;18;RB Leipzig
+Maarten Vandevoordt;GK;22;RB Leipzig
+Yussuf Poulsen;MF,FW;30;RB Leipzig
+Xaver Schlager;MF;26;RB Leipzig
+Tidiam Gomis;FW;17;RB Leipzig
+Mohamed Simakan;DF;24;RB Leipzig
+André Silva;FW;28;RB Leipzig
+Assan Ouédraogo;MF;18;RB Leipzig
+Elif Elmas;FW,MF;24;RB Leipzig
+Viggo Gebel;MF;16;RB Leipzig
+Faik Sakar;MF;16;RB Leipzig
+Nuha Jatta;MF;18;RB Leipzig
+Jonathan Norbye;DF;17;RB Leipzig
+Robert Ramsak;FW;17;RB Leipzig
+Lionel Voufack;DF;16;RB Leipzig
+Mika Walther;MF;16;RB Leipzig
+Leopold Zingerle;GK;30;RB Leipzig
+Paulo Gazzaniga;GK;32;Girona
+Daley Blind;DF;34;Girona
+Arnau Martinez;DF,MF;21;Girona
+Miguel Gutiérrez;DF,MF;23;Girona
+Ladislav Krejčí;DF;25;Girona
+David López;DF;34;Girona
+Yangel Herrera;MF;26;Girona
+Iván Martín;MF;25;Girona
+Viktor Tsyhankov;MF,FW;26;Girona
+Bryan Gil;MF,FW;23;Girona
+Oriol Romeu;MF;32;Girona
+Abel Ruiz;FW;24;Girona
+Donny van de Beek;MF;27;Girona
+Yaser Asprilla;MF,FW;20;Girona
+Arnaut Danjuma;MF,FW;27;Girona
+Alejandro Francés;DF;21;Girona
+Bojan Miovski;FW;25;Girona
+Arthur Melo;MF;27;Girona
+Juanpe;DF;33;Girona
+Cristhian Stuani;FW;37;Girona
+Portu;FW,MF;32;Girona
+Jhon Solis;MF;19;Girona
+Vladyslav Krapyvtsov;GK;19;Girona
+Silvi Clúa;MF;19;Girona
+Gabriel Osei Misehouy;FW;19;Girona
+Iker Almena;MF;20;Girona
+Papa Ba;FW;19;Girona
+Pau López;GK;29;Girona
+Kim Minsu;FW;18;Girona
+Ferrán Ruiz;DF;21;Girona
+Juan Carlos;GK;36;Girona
+Aleksandar Andreev;GK;18;Girona
+Ricard Artero;MF;21;Girona
+Dawda Camara;FW;21;Girona
+Enric García;MF;18;Girona
+Jastin García;FW;20;Girona
+Lucas García;GK;20;Girona
+Raúl Martínez;MF;22;Girona
+Joel Roca;FW;19;Girona
+Toni Villa;MF;29;Girona
+Antal Yaakobishvili;DF;20;Girona
+Samson Baidoo;DF;20;Red Bull Salzburg
+Mads Bidstrup;MF;23;Red Bull Salzburg
+Nene Dorgeles;MF,FW;21;Red Bull Salzburg
+Oscar Gloukh;MF;20;Red Bull Salzburg
+Alexander Schlager;GK;28;Red Bull Salzburg
+Nicolás Capaldo;MF,DF;25;Red Bull Salzburg
+Adam Daghim;FW;18;Red Bull Salzburg
+Aleksa Terzić;DF;24;Red Bull Salzburg
+Kouakou Gadou;DF;17;Red Bull Salzburg
+Moussa Kounfolo Yeo;MF,FW;20;Red Bull Salzburg
+Yorbe Vertessen;FW,MF;23;Red Bull Salzburg
+Leandro Morgalla;DF;19;Red Bull Salzburg
+Kamil Piątkowski;DF;24;Red Bull Salzburg
+Janis Blaswich;GK;33;Red Bull Salzburg
+Mamady Diambou;MF;21;Red Bull Salzburg
+Amar Dedić;DF;21;Red Bull Salzburg
+Karim Konaté;FW;20;Red Bull Salzburg
+Petar Ratkov;FW;20;Red Bull Salzburg
+Bobby Clark;MF,FW;19;Red Bull Salzburg
+Stefan Bajcetic;MF;19;Red Bull Salzburg
+Karim Onisiwo;FW;32;Red Bull Salzburg
+Hendry Blank;DF;19;Red Bull Salzburg
+Daouda Guindo;DF;21;Red Bull Salzburg
+Maurits Kjærgaard;MF,DF;21;Red Bull Salzburg
+Valentin Sulzbacher;MF;19;Red Bull Salzburg
+Tim Trummer;DF;18;Red Bull Salzburg
+Lucas Gourna-Douath;MF;20;Red Bull Salzburg
+John Mellberg;DF;18;Red Bull Salzburg
+Takumu Kawamura;MF;24;Red Bull Salzburg
+Edmund Baidoo;MF,FW;18;Red Bull Salzburg
+Maximiliano Caufriez;DF;27;Red Bull Salzburg
+Ignace Van Der Brempt;DF;22;Red Bull Salzburg
+Jannik Schuster;DF;18;Red Bull Salzburg
+Salko Hamzic;GK;17;Red Bull Salzburg
+Jonas Krumrey;GK;20;Red Bull Salzburg
+Bryan Okoh;DF;21;Red Bull Salzburg
+Lassina Traoré;DF;17;Red Bull Salzburg
+Christian Zawieschitzky;GK;17;Red Bull Salzburg
+Dominik Takáč;GK;25;Slovan Bratislava
+César Blackman;DF,MF;26;Slovan Bratislava
+Kenan Bajrić;DF,MF;29;Slovan Bratislava
+Guram Kashia;DF;37;Slovan Bratislava
+Dávid Strelec;FW;23;Slovan Bratislava
+Kyriakos Savvidis;MF;29;Slovan Bratislava
+Tigran Barseghyan;MF,FW;30;Slovan Bratislava
+Marko Tolić;MF;28;Slovan Bratislava
+Kevin Wimmer;DF;31;Slovan Bratislava
+Danylo Ihnatenko;MF;27;Slovan Bratislava
+Nino Marcelli;MF;19;Slovan Bratislava
+Sharani Zuberu;DF,MF;24;Slovan Bratislava
+Siemen Voet;DF;24;Slovan Bratislava
+Juraj Kucka;MF;37;Slovan Bratislava
+Róbert Mak;FW,MF;33;Slovan Bratislava
+Jurij Medvedev;MF;28;Slovan Bratislava
+Vladimír Weiss;FW,MF;34;Slovan Bratislava
+Idjessi Metsoko;FW;22;Slovan Bratislava
+Július Szöke;MF;28;Slovan Bratislava
+Alen Mustafić;MF;25;Slovan Bratislava
+Artur Gajdoš;MF;20;Slovan Bratislava
+Lukáš Pauschek;DF;31;Slovan Bratislava
+Matúš Vojtko;MF;23;Slovan Bratislava
+Adam Hrdina;GK;20;Slovan Bratislava
+Elvis Isaac;FW;21;Slovan Bratislava
+Maxim Mateas;MF;16;Slovan Bratislava
+Andrej Mikolás;GK;19;Slovan Bratislava
+Martin Mišovič;FW;20;Slovan Bratislava
+Martin Trnovský;GK;24;Slovan Bratislava
+Filip Ugrinic;MF;25;Young Boys
+Jaouen Hadjam;DF;21;Young Boys
+Loris Benito;DF;32;Young Boys
+Sandro Lauper;DF,MF;27;Young Boys
+Joel Monteiro;MF,FW;24;Young Boys
+Marvin Keller;GK;22;Young Boys
+Lewin Blum;DF;23;Young Boys
+Cedric Itten;FW;27;Young Boys
+Zachary Athekame;DF;19;Young Boys
+Darian Males;MF;23;Young Boys
+Alan Virginius;MF,FW;21;Young Boys
+Christian Fassnacht;MF,FW;30;Young Boys
+David von Ballmoos;GK;29;Young Boys
+Rayan Raveloson;MF;27;Young Boys
+Łukasz Łakomy;MF;23;Young Boys
+Mohamed Aly Camara;DF;26;Young Boys
+Chris Bedia;FW;28;Young Boys
+Ebrima Colley;MF,FW;24;Young Boys
+Tanguy Zoukrou;DF;21;Young Boys
+Silvère Ganvoula M'Boussy;FW;28;Young Boys
+Meschak Elia;FW,MF;26;Young Boys
+Cheikh Niasse;MF;24;Young Boys
+Abdu Conté;DF;26;Young Boys
+Anel Husic;DF;23;Young Boys
+Kastriot Imeri;MF;24;Young Boys
+Miguel Chaiwa;MF;20;Young Boys
+Noah Persson;DF;21;Young Boys
+Emanuel Tsimba;FW;18;Young Boys
+Sadin Crnovrsanin;DF;22;Young Boys
+Donat Rrudhani;MF;25;Young Boys
+Joel Bichsel;DF;22;Young Boys
+Jacques Bomo;MF;18;Young Boys
+Facinet Conte;FW;19;Young Boys
+Lutfi Dalipi;MF;18;Young Boys
+Théo Golliard;MF;21;Young Boys
+Lorin Jetzer;DF;18;Young Boys
+Janis Lüthi;FW;19;Young Boys
+Dario Marzino;GK;27;Young Boys
+Patric Pfeiffer;DF;24;Young Boys
+Rhodri Smith;DF;17;Young Boys
