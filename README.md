@@ -9,7 +9,7 @@ El proyecto incluye un proceso ETL para limpiar y transformar los datos, un mode
 
 # Dashboard
 
-![Dashboard](images/dashboard_general.png)
+![Dashboard](images/dashboard.png)
 
 # 📊 Tecnologías utilizadas
 
